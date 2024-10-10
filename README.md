@@ -23,7 +23,7 @@ This project is a modern API template built using Express.js, MySQL, TypeScript,
 3. Create a `.env` file and add the necessary environment variables:
 
    ```env
-PORT=5000
+   PORT=5000
    ```
 
 ## 🛠 Usage
