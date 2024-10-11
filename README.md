@@ -1,3 +1,5 @@
+[Jectro Discord](https://discord.gg/zYP8zsuQHM)
+
 # 🚀 Mysql Express
 
 This project is a modern API template built using Express.js, MySQL, TypeScript, and other robust technologies. It is designed to help you quickly set up a scalable and secure API with various essential features.
